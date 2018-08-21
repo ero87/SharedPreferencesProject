@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferencesProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">save</string>
+    <string name="enter_your_text">Enter your Text</string>
+    <string name="delete">Delete ????</string>
+    <string name="remove">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>

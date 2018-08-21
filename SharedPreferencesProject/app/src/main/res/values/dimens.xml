@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="edit_text_size">300dp</dimen>
+    <dimen name="top_size">40dp</dimen>
+    <dimen name="button_top">50dp</dimen>
+    <dimen name="margin_items">3dp</dimen>
+    <dimen name="esevation_size">5dp</dimen>
+    <dimen name="radius">20dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+</resources>
